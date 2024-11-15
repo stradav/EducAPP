@@ -1,0 +1,181 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152830677@s.whatsapp.net',
+    fromMe: false,
+    id: '6C2B9BF8A285BE8CB8DA9E3DCD40D62E',
+    participant: undefined
+  },
+  messageTimestamp: 1731648356,
+  pushName: 'Maria Camila Estrada Villada',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573152830677'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8072f8b5-499d-46cc-ba2c-257fc9ff1366',
+  keyword: 'key_6a0c360c-99ed-40e5-bbeb-7f6ac9242fe5',
+  answer: '🙌 ¡Hola! 👋 Bienvenido a tu asistente de archivos *EducAPP*. Estoy aquí para ayudarte, escribe *MENU* para conocer nuestras opciones:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ccc373a61b476f045de27238180ee888'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152830677@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD2A3CC02748E042313FBD74BBF91EF5',
+    participant: undefined
+  },
+  messageTimestamp: 1731648360,
+  pushName: 'Maria Camila Estrada Villada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '573152830677'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_639f1ef9-c946-4ce8-a677-fe120b50ea6b',
+  keyword: 'key_97ec69aa-cae0-4935-9092-d2b06700becd',
+  answer: 'Aquí encontrarás el menú de archivos, elige una de las siguientes opciones:\n' +
+    '\n' +
+    '1. Carpeta de Formatos\n' +
+    '2. Asistencia\n' +
+    '3. Otros\n' +
+    '4. Academia\n' +
+    '5. ChatGPT',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b48532bcbef874e03308b74b7aaf51b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152830677@s.whatsapp.net',
+    fromMe: false,
+    id: 'E1C5CCB86060D96F7FF7022148E658B5',
+    participant: undefined
+  },
+  messageTimestamp: 1731648424,
+  pushName: 'Maria Camila Estrada Villada',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573152830677'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_132abeb5-271c-4222-b5b5-ca9e77737c16',
+  keyword: 'key_c517ccf3-7239-4af2-aea1-c15f15db8dfb',
+  answer: '📁 Submenú: Carpeta de Formatos\n' +
+    '\n' +
+    'a. Formato de informe\n' +
+    'b. Formato de asistencia\n' +
+    'c. Regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1067fcde525fbe195074251ffbcf138f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152830677@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8C21C38905F86F571708ACF19AC5F1A',
+    participant: undefined
+  },
+  messageTimestamp: 1731648430,
+  pushName: 'Maria Camila Estrada Villada',
+  broadcast: false,
+  message: Message {
+    conversation: 'A',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A',
+  from: '573152830677'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152830677@s.whatsapp.net',
+    fromMe: false,
+    id: '6062BE569729D0C87D8311D289FCE8A4',
+    participant: undefined
+  },
+  messageTimestamp: 1731648438,
+  pushName: 'Maria Camila Estrada Villada',
+  broadcast: false,
+  message: Message {
+    conversation: 'C',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'C',
+  from: '573152830677'
+}
